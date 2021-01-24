@@ -6,7 +6,7 @@ chardet==4.0.0
 colorama==0.4.4
 cryptography==3.3.1
 docutils==0.16
--e git+git@github.com:mcvarer/pypi-hellow-word.git@026933a1c516f0764518986afca3fbd3fba8c199#egg=helloworld_mcv
+-e git+git@github.com:mcvarer/pypi-hellow-word.git@2c138d60f6aa6ce582685924e56ecdea22d23cc0#egg=helloworld_mcv
 idna==2.10
 importlib-metadata==3.4.0
 jeepney==0.6.0
@@ -23,6 +23,7 @@ rfc3986==1.4.0
 SecretStorage==3.3.0
 six==1.15.0
 tqdm==4.56.0
+TracTixSummary==1.0
 twine==3.3.0
 typing-extensions==3.7.4.3
 urllib3==1.26.2
