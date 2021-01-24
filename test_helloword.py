@@ -1,4 +1,4 @@
-from src.helloword import say_hello
+from helloword import say_hello
 
 
 def test_helloworld_no_params():

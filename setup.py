@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name="helloworld-mcv",
-    version="0.0.1",
+    version="0.0.3",
     description="Say hello!",
     py_modules=["helloworld"],
     package_dir={"": "src"},
